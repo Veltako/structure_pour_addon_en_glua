@@ -1,0 +1,1 @@
+-- c'est mon squelette pour mes addons en glua (.lua)
